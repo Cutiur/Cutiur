@@ -45,4 +45,4 @@ Trabalho principalmente com **React, Next.js e TypeScript**, sempre buscando có
 
 ![Felipe Cutiur GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutiur&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutiur&layout=compact&theme=tokyonight)
+
