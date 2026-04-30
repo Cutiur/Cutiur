@@ -1,10 +1,8 @@
 # 👨‍💻 Olá! Me chamo Felipe Cutiur.
-
 **`Desenvolvedor Front-End`**  **`UI/UX Designer`**
 
 Sou desenvolvedor **Front-End** com foco em criar interfaces modernas, acessíveis e performáticas.  
-Tenho forte interesse em **UI/UX**, design de interfaces e boas práticas de experiência do usuário.
-
+Tenho forte interesse em **UI/UX**, design de interfaces e boas práticas de experiência do usuário.  
 Trabalho principalmente com **React, Next.js e TypeScript**, sempre buscando código limpo e interfaces bem pensadas.
 
 <p>
@@ -38,12 +36,13 @@ Trabalho principalmente com **React, Next.js e TypeScript**, sempre buscando có
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img width="30px" src="https://cdn.simpleicons.org/expo/000000" />
 </p>
 
 ---
 
 ## 📊 Estatísticas
 
-![Felipe Cutiur GitHub stats](https://githubreadmestatsfast.vercel.app/api?username=Cutiur&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Felipe Cutiur GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutiur&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-![Top Langs](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Cutiur&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutiur&layout=compact&theme=tokyonight)
